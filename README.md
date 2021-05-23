@@ -16,4 +16,5 @@ npm start
 npm run build
 ```
 
-https://media.giphy.com/media/lf2aEC3ijnkeliSULZ/giphy.gif
+
+![Alt Text](https://media.giphy.com/media/lf2aEC3ijnkeliSULZ/giphy.gif)
