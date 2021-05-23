@@ -15,3 +15,5 @@ npm start
 # Build CSS and assets
 npm run build
 ```
+
+https://media.giphy.com/media/lf2aEC3ijnkeliSULZ/giphy.gif
